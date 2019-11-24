@@ -1,1 +1,1 @@
-Hi Michael & Abel this is my # sql-challenge.
+Hi there, Abel & Michael this is my # sql-challenge homework.
